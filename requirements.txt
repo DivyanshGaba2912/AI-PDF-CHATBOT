@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+numpy
+sentence_transformers
+google-generativeai
+pdfplumber
+uuid
+pytesseract
+pdf2image
+pillow
+python-dotenv
